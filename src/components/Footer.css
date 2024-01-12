@@ -1,0 +1,14 @@
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: #220b02; 
+    color: #fff; 
+    padding: 20px;
+  }
+
+.bold{
+  color: rgba(213,190,147,90);
+  margin-left: 70px;
+}

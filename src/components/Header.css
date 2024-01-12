@@ -1,0 +1,13 @@
+.header {
+    background-color: #220b02;
+    color: #fff;
+    padding: 10px;
+    display: flex; 
+    
+    align-items:center; 
+    
+  }
+.logo{
+  max-width: 100%;
+  height: auto;
+}
